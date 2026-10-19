@@ -9,8 +9,3 @@ Hi! I'm Niranjan, a Computer Science and AI/ML student learning software develop
 
 ## Goal
 Build projects and develop professional software engineering skills.
-
-## About Me
-
-Hi, I'm Niranjan!
-I'm learning Git, GitHub, Python, and GitHub Actions.
